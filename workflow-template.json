@@ -1,0 +1,51 @@
+{
+  "type": "Collection",
+  "stac_version": "1.0.0",
+  "stac_extensions": [],
+  "id": "CHANGEME__workflow-id",
+  "title": "CHANGEME__workflow-title",
+  "description": "CHANGEME__workflow-description",
+  "keywords": ["CHANGEME__keywords"],
+  "license": "CHANGEME__license",
+  "providers": ["CHANGEME__provider-objects"],
+  "extent": {
+    "spatial": {
+      "bbox": [[-180.0, -90.0, 179.99999991618097, 89.99999995809048]]
+    },
+    "temporal": {
+      "interval": [[null, null]]
+    }
+  },
+  "summaries": {
+    "inputs": ["CHANGEME__inputs"],
+    "outputs": ["CHANGEME__outputs"],
+    "examples": ["CHANGEME__examples"],
+    "pricing": "CHANGEME__NULL",
+    "documentation": "CHANGEME__NULL",
+    "contact_information": "CHANGEME__NULL"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "type": "application/json",
+      "href": "CHANGEME__self-link"
+    },
+    {
+      "rel": "parent",
+      "type": "application/json",
+      "href": "CHANGEME__parent-link"
+    },
+    {
+      "rel": "root",
+      "type": "application/json",
+      "href": "CHANGEME__root-link"
+    }
+  ],
+  "assets": {
+    "cwl_script": {
+      "href": "CHANGEME__cwl-url",
+      "roles": ["data"],
+      "type": "application/cwl"
+    }
+  }
+}

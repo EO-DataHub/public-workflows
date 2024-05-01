@@ -1,0 +1,10 @@
+{
+  "id": "CHANGEME__workflow-id",
+  "assets": {
+    "cwl_script": {
+      "href": "CHANGEME__cwl-url",
+      "roles": ["data"],
+      "type": "application/cwl"
+    }
+  }
+}

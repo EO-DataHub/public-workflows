@@ -1,0 +1,9 @@
+{
+  "assets": {
+    "cwl_script": {
+      "href": "https://raw.githubusercontent.com/EOEPCA/deployment-guide/main/deploy/samples/requests/processing/snuggs-app.cwl",
+      "roles": ["data"],
+      "type": "application/cwl"
+    }
+  }
+}

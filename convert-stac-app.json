@@ -1,0 +1,9 @@
+{
+  "assets": {
+    "cwl_script": {
+      "href": "https://github.com/EOEPCA/deployment-guide/blob/main/deploy/samples/requests/processing/convert-stac-app.cwl",
+      "roles": ["data"],
+      "type": "application/cwl"
+    }
+  }
+}

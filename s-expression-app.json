@@ -1,0 +1,9 @@
+{
+  "assets": {
+    "cwl_script": {
+      "href": "https://raw.githubusercontent.com/EOEPCA/demo/main/demoroot/data/s-expression-cwl.cwl",
+      "roles": ["data"],
+      "type": "application/cwl"
+    }
+  }
+}
